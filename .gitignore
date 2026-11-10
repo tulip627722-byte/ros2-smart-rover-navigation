@@ -1,0 +1,13 @@
+build/
+install/
+log/
+.colcon/
+.vscode/
+.idea/
+__pycache__/
+*.py[cod]
+*.swp
+*~
+
+# 内层原始工作空间压缩包包含本地构建日志；仓库使用已展开的 src/ 源码。
+*_ros2_ws.zip
